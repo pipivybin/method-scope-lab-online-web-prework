@@ -1,3 +1,3 @@
-def catch_phrase(phrase1)
-  return "#{phrase1}"
+def catch_phrase(phrase)
+  puts "#{phrase}"
 end
