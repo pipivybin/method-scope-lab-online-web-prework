@@ -1,4 +1,3 @@
 def catch_phrase(phrase)
-phrase = "xxx"
-puts phrase
+  puts phrase
 end
